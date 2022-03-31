@@ -396,7 +396,7 @@ main() {
 
   // init... string Charcter
   {
-    final character = "Syed Zain Haider Naqvi";
+    final character = "Muhammad Ikram Bashir";
     // Condition is true if the character.toUpperCase is equal to character which user entered
     if (character[0].toUpperCase() == character[0]) {
       print("The character  at the index 0 is UpperCase letter");
@@ -459,7 +459,7 @@ main() {
 
   {
     final name;
-    name = "zain haider";
+    name = "Muhammad Ikram Bashir";
     for (var i = 0; i < name.length; i++) {
       if (name[i].toUpperCase == name.length) {
         print("$name the name is upperCse");
